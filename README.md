@@ -42,4 +42,4 @@ To get more help on the Angular CLI use ng help or go check out the Angular CLI 
 
 [Demo Run Screenshot](https://github.com/AbhishekAzad08/AGL-Test/blob/master/agl-test/src/assets/images/DemoRun.PNG)
 
-[Test Run Screenshot](https://github.com/AbhishekAzad08/AGL-Test/blob/master/agl-test/src/assets/images/TestRun.PNG)
+[Unit Test Cases Run Screenshot](https://github.com/AbhishekAzad08/AGL-Test/blob/master/agl-test/src/assets/images/TestRun.PNG)
