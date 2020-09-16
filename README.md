@@ -40,5 +40,6 @@ Run ng test to execute the unit tests via Karma.
 # Further help
 To get more help on the Angular CLI use ng help or go check out the Angular CLI README.
 
-[Demo Run](https://github.com/AbhishekAzad08/AGL-Test/blob/master/agl-test/src/assets/images/DemoRun.PNG)
-https://github.com/AbhishekAzad08/AGL-Test/blob/master/agl-test/src/assets/images/DemoRun.PNG
+[Demo Run Screenshot](https://github.com/AbhishekAzad08/AGL-Test/blob/master/agl-test/src/assets/images/DemoRun.PNG)
+
+[Test Run Screenshot](https://github.com/AbhishekAzad08/AGL-Test/blob/master/agl-test/src/assets/images/TestRun.PNG)
