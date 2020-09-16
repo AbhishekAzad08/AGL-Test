@@ -11,6 +11,7 @@ import { DataService } from 'src/app/services/data.service';
 export class AnimalsComponent implements OnInit {
   typeOfPetToFilter = 'Cat';
   petsList: any[] = [];
+  heading:string='AGL Developer Test';
   selectedType: string;
   groupedData: any;
   uniqueGenders: any;
@@ -19,6 +20,10 @@ export class AnimalsComponent implements OnInit {
   constructor(private dataService: DataService) { }
 
   ngOnInit(): void {
+    this.getDataFromService();
+
+  }
+  getDataFromService(){
     this.sub = this.dataService.getPeople().subscribe(
       data => {
         //Called when success
@@ -31,7 +36,6 @@ export class AnimalsComponent implements OnInit {
     ).add(() => {
       //Called when operation is complete (both success and error)
     });
-
   }
 
   groupData(data: People[]): any {
