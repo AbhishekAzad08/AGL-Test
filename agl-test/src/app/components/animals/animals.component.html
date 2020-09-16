@@ -1,0 +1,10 @@
+<div class="col-lg-4">
+<div *ngFor="let item of uniqueGenders;let i = index" >    
+    <div class="heading"><strong>{{item}}</strong></div>
+    <div *ngFor="let petitem of petsList;let j = index">    
+        <div *ngIf="petitem.genderType===item">
+        {{petitem.petName}}
+        </div>           
+    </div>
+</div>
+</div>
