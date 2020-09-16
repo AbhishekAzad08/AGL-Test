@@ -40,5 +40,5 @@ Run ng test to execute the unit tests via Karma.
 # Further help
 To get more help on the Angular CLI use ng help or go check out the Angular CLI README.
 
-![GitHub Logo](/assets/images/DemoRun.png)
-Format: ![Alt Text](url)
+[Demo Run](https://github.com/AbhishekAzad08/AGL-Test/blob/master/agl-test/src/assets/images/DemoRun.PNG)
+https://github.com/AbhishekAzad08/AGL-Test/blob/master/agl-test/src/assets/images/DemoRun.PNG
